@@ -1,5 +1,7 @@
 # 🚀 Desafio 30 Aulas de Python
 
+📝 As aulas são liberadas todas as Quartas-Feiras!
+
 A ideia principal é que, em 30 aulas, você tenha uma noção sólida e ampla dos principais conceitos e recursos quando o assunto
 é Programação em Python.
 
@@ -22,4 +24,4 @@ ________________________________________________________________________________
 ### ✔️ Playlist Completa:
 https://www.youtube.com/playlist?list=PLgYnjzJvwA8W_qsVVoAe67cX5ECauMM3u
 
-<marquee>🚀 Texto Piscando! 🚀</marquee>
+
